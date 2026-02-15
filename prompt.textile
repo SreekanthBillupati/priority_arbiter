@@ -4,7 +4,7 @@ don't change the portlist of the module
 these are the inputs and outputs:
 inputs:
 - clk_i  : Clock signal (rising edge triggered)
-- rstn_i: ASynchronous reset_n signal
+- rstn_i : Asynchronous reset_n signal
 - req_i[3:0]: Request signal (indicates a request for permission)
 outputs:
 - gnt_o[3:0]: Grant signal (indicates a granted permission)

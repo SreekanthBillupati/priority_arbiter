@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1771138591" />
-    <testcase name="test_priority_arbiter" classname="test_priority_arbiter_hidden" file="C:\Users\SreekanthBillupati\Downloads\Phinity_final\priority_arbiter\tests\test_priority_arbiter_hidden.py" lineno="12" time="0.003121614456176758" sim_time_ns="121.0" ratio_time="38761.993737111436" />
-  </testsuite>
-</testsuites>
